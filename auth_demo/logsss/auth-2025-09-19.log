@@ -1,0 +1,12 @@
+[2025-09-19 09:19:42] u=Awi event=registration msg=New user registered ip=::1 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+[2025-09-19 09:19:55] u=Awi event=login_success msg=User logged in successfully ip=::1 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+[2025-09-19 09:20:01] u=Awi event=login_failure msg=failed_attempts=1 ip=::1 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+[2025-09-19 09:21:56] u=Awi event=login_success msg=User logged in successfully ip=::1 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+[2025-09-19 09:27:22] u=Awi event=login_failure msg=failed_attempts=1 ip=::1 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+[2025-09-19 09:27:30] u=Awi event=login_failure msg=failed_attempts=2 ip=::1 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+[2025-09-19 09:27:33] u=Awi event=login_failure msg=failed_attempts=3 ip=::1 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+[2025-09-19 09:27:33] u=Awi event=locked msg=locked_until=2025-09-19 09:42:33 ip=::1 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+[2025-09-19 09:27:35] u=Awi event=login_attempt_while_locked msg=Attempted login while locked ip=::1 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+[2025-09-19 09:59:49] u=Awi event=registration msg=New user registered ip=::1 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+[2025-09-19 10:15:26] u=Dionglay event=registration msg=New user registered ip=::1 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+[2025-09-19 10:16:24] u=Diongley event=registration msg=New user registered ip=::1 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
